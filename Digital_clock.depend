@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1550472989 source:e:\project\digital_clock\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<graphics.h>
+	<dos.h>
+	<conio.h>
+	<time.h>
+
+1551233156 source:e:\projects\digital_clock\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<graphics.h>
+	<dos.h>
+	<conio.h>
+	<time.h>
+
+1551233156 source:g:\c++\digital_clock\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<graphics.h>
+	<dos.h>
+	<conio.h>
+	<time.h>
+
